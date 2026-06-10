@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Bennett 👋</h1>
-
 <p align="center">
-Student Developer • AI Systems • Programming Languages • Developer Tooling
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
 
+<br>
 <p align="center">
 I build experimental systems at the intersection of artificial intelligence, compiler design, and software infrastructure. My projects explore how machines can better understand code, environments, and complex reasoning tasks.
 </p>
