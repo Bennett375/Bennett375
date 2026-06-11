@@ -9,9 +9,9 @@ I build experimental systems at the intersection of artificial intelligence, com
 
 ---
 
-# 🚀 Current Projects
+# Current Projects
 
-## 🤖 System Aware Development Agent
+## System Aware Development Agent
 
 The Agent is an AI-powered development environment assistant designed to automate project setup, dependency management, environment repair, and developer workflow orchestration.
 
@@ -19,13 +19,13 @@ Instead of relying solely on a language model's context window, the system build
 
 ### Highlights
 
-* 🕸️ Dependency and environment graph generation
-* 📁 Project structure and filesystem analysis
-* 🔧 Automated dependency installation and repair
-* 📦 Build-system and toolchain awareness
-* 🧠 Graph-based context retrieval
-* ⚡ FastAPI backend with desktop integration
-* 🔍 Failure-aware diagnostics and environment reasoning
+* Dependency and environment graph generation
+* Project structure and filesystem analysis
+* Automated dependency installation and repair
+* Build-system and toolchain awareness
+* Graph-based context retrieval
+* FastAPI backend with desktop integration
+* Failure-aware diagnostics and environment reasoning
 
 ### Vision
 
@@ -35,7 +35,7 @@ The long-term goal is to create a system capable of receiving a high-level proje
 
 ---
 
-## 🌊 Torrent
+## Torrent
 
 Torrent is an experimental programming language and compiler designed for machine learning, scientific computing, and high-performance systems programming.
 
@@ -43,13 +43,13 @@ The project explores what an AI-native language could look like by treating tens
 
 ### Highlights
 
-* 🧠 Tensor-aware type system
-* 📐 Compile-time shape inference and validation
-* 🔒 Ownership and borrowing semantics
-* ⚡ MLIR-based compilation pipeline
-* 🏗️ Static typing with strong correctness guarantees
-* 🤖 Native support for machine learning workloads
-* 🔍 Numerical-computing optimizations
+* Tensor-aware type system
+* Compile-time shape inference and validation
+* Ownership and borrowing semantics
+* MLIR-based compilation pipeline
+* Static typing with strong correctness guarantees
+* Native support for machine learning workloads
+* Numerical-computing optimizations
 
 ### Compiler Pipeline
 
@@ -83,7 +83,7 @@ Its goal is to provide the simplicity of modern scripting languages, the safety 
 
 ---
 
-# 🛠 Technologies
+# Technologies
 
 ### Languages
 
@@ -107,7 +107,7 @@ Its goal is to provide the simplicity of modern scripting languages, the safety 
 
 ---
 
-# 🎯 Areas of Interest
+# Areas of Interest
 
 * Artificial Intelligence
 * Autonomous Agents
@@ -120,6 +120,6 @@ Its goal is to provide the simplicity of modern scripting languages, the safety 
 
 ---
 
-# 📫 Contact
+# Contact
 
 GitHub Discussions and Issues are the best way to reach me regarding projects.
