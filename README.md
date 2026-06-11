@@ -91,6 +91,9 @@ Its goal is to provide the simplicity of modern scripting languages, the safety 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp)
+
 
 ### AI & Machine Learning
 
